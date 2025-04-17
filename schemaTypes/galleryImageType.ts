@@ -29,8 +29,9 @@ export const galleryImageType = defineType({
       type: 'string',
       options: {
         list: [
-          {title: 'Synthetic Turf', value: 'synthetic-turf'},
+          {title: 'Maintenance', value: 'maintenance'},
           {title: 'Rubber Surfacing', value: 'rubber-surfacing'},
+          {title: 'Synthetic Turf', value: 'synthetic-turf'},
         ],
       },
     },
